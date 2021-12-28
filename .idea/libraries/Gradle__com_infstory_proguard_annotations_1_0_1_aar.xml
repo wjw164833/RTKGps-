@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: com.infstory:proguard-annotations:1.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/proguard-annotations-1.0.1.aar/84830494030b8e26f03ef59dc546bdb0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/proguard-annotations-1.0.1.aar/84830494030b8e26f03ef59dc546bdb0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/proguard-annotations-1.0.1.aar/84830494030b8e26f03ef59dc546bdb0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/proguard-annotations-1.0.1.aar/2b4ec3ad442be5200c299bffe04a280b/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/proguard-annotations-1.0.1.aar/2b4ec3ad442be5200c299bffe04a280b/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/proguard-annotations-1.0.1.aar/2b4ec3ad442be5200c299bffe04a280b/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-1/files-1.1/proguard-annotations-1.0.1.aar/b361404769a0d0e38815899e190af066/res" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-1/files-1.1/proguard-annotations-1.0.1.aar/b361404769a0d0e38815899e190af066/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../.gradle/caches/transforms-1/files-1.1/proguard-annotations-1.0.1.aar/b361404769a0d0e38815899e190af066/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.infstory/proguard-annotations/1.0.1/d20cb410d4a9f5e74f15d88ca7d3c4faa110cd92/proguard-annotations-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

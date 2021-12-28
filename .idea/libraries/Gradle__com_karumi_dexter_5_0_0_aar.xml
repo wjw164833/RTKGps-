@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: com.karumi:dexter:5.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/dexter-5.0.0.aar/ba32f208c4f292c858344ec44bc3e512/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/dexter-5.0.0.aar/ba32f208c4f292c858344ec44bc3e512/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/dexter-5.0.0.aar/ba32f208c4f292c858344ec44bc3e512/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/dexter-5.0.0.aar/4997ea7b2126c0661a0da48290020653/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/dexter-5.0.0.aar/4997ea7b2126c0661a0da48290020653/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/dexter-5.0.0.aar/4997ea7b2126c0661a0da48290020653/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../.gradle/caches/transforms-1/files-1.1/dexter-5.0.0.aar/dd38727056738b32e3fddeca5dd35225/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-1/files-1.1/dexter-5.0.0.aar/dd38727056738b32e3fddeca5dd35225/res" />
+      <root url="file://$PROJECT_DIR$/../../.gradle/caches/transforms-1/files-1.1/dexter-5.0.0.aar/dd38727056738b32e3fddeca5dd35225/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.karumi/dexter/5.0.0/c2d1f7314d3761008b381eb349bba66d8dcc3018/dexter-5.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

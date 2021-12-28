@@ -1,0 +1,41 @@
+{
+  "buildFiles": [
+    "E:\\androidProject\\RtkGps-master\\jni\\Android.mk",
+    "E:\\androidProject\\RtkGps-master\\jni\\Application.mk"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\yuyy\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dE:\\androidProject\\RtkGps-master\\jni\\Android.mk NDK_APPLICATION_MK\u003dE:\\androidProject\\RtkGps-master\\jni\\Application.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003dE:/androidProject/RtkGps-master/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dE:\\androidProject\\RtkGps-master\\build\\intermediates\\ndkBuild\\release\\lib clean"
+  ],
+  "libraries": {
+    "gdalalljni-release-x86_64": {
+      "artifactName": "gdalalljni",
+      "buildCommand": "C:\\Users\\yuyy\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dE:\\androidProject\\RtkGps-master\\jni\\Android.mk NDK_APPLICATION_MK\u003dE:\\androidProject\\RtkGps-master\\jni\\Application.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003dE:/androidProject/RtkGps-master/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dE:\\androidProject\\RtkGps-master\\build\\intermediates\\ndkBuild\\release\\lib E:/androidProject/RtkGps-master/build/intermediates/ndkBuild/release/obj/local/x86_64/libgdalalljni.so",
+      "abi": "x86_64",
+      "output": "E:\\androidProject\\RtkGps-master\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\libgdalalljni.so"
+    },
+    "rtkgps-release-x86_64": {
+      "artifactName": "rtkgps",
+      "buildCommand": "C:\\Users\\yuyy\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dE:\\androidProject\\RtkGps-master\\jni\\Android.mk NDK_APPLICATION_MK\u003dE:\\androidProject\\RtkGps-master\\jni\\Application.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003dE:/androidProject/RtkGps-master/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dE:\\androidProject\\RtkGps-master\\build\\intermediates\\ndkBuild\\release\\lib E:/androidProject/RtkGps-master/build/intermediates/ndkBuild/release/obj/local/x86_64/librtkgps.so",
+      "abi": "x86_64",
+      "output": "E:\\androidProject\\RtkGps-master\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\librtkgps.so"
+    },
+    "ntripcaster-release-x86_64": {
+      "artifactName": "ntripcaster",
+      "buildCommand": "C:\\Users\\yuyy\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dE:\\androidProject\\RtkGps-master\\jni\\Android.mk NDK_APPLICATION_MK\u003dE:\\androidProject\\RtkGps-master\\jni\\Application.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003dE:/androidProject/RtkGps-master/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dE:\\androidProject\\RtkGps-master\\build\\intermediates\\ndkBuild\\release\\lib E:/androidProject/RtkGps-master/build/intermediates/ndkBuild/release/obj/local/x86_64/libntripcaster.so",
+      "abi": "x86_64",
+      "output": "E:\\androidProject\\RtkGps-master\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\libntripcaster.so"
+    },
+    "proj-release-x86_64": {
+      "artifactName": "proj",
+      "buildCommand": "C:\\Users\\yuyy\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dE:\\androidProject\\RtkGps-master\\jni\\Android.mk NDK_APPLICATION_MK\u003dE:\\androidProject\\RtkGps-master\\jni\\Application.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003dE:/androidProject/RtkGps-master/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dE:\\androidProject\\RtkGps-master\\build\\intermediates\\ndkBuild\\release\\lib E:/androidProject/RtkGps-master/build/intermediates/ndkBuild/release/obj/local/x86_64/libproj.so",
+      "abi": "x86_64",
+      "output": "E:\\androidProject\\RtkGps-master\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\libproj.so"
+    },
+    "rtklib-release-x86_64": {
+      "artifactName": "rtklib",
+      "buildCommand": "C:\\Users\\yuyy\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dE:\\androidProject\\RtkGps-master\\jni\\Android.mk NDK_APPLICATION_MK\u003dE:\\androidProject\\RtkGps-master\\jni\\Application.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003dE:/androidProject/RtkGps-master/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dE:\\androidProject\\RtkGps-master\\build\\intermediates\\ndkBuild\\release\\lib E:/androidProject/RtkGps-master/build/intermediates/ndkBuild/release/obj/local/x86_64/librtklib.a",
+      "abi": "x86_64",
+      "output": "E:\\androidProject\\RtkGps-master\\build\\intermediates\\ndkBuild\\release\\obj\\local\\x86_64\\librtklib.a"
+    }
+  }
+}

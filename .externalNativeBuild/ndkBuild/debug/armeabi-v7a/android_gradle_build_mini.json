@@ -1,0 +1,41 @@
+{
+  "buildFiles": [
+    "F:\\githubrtk\\RtkGps-master\\jni\\Android.mk",
+    "F:\\githubrtk\\RtkGps-master\\jni\\Application.mk"
+  ],
+  "cleanCommands": [
+    "F:\\android\\AndroidSDK\\ndk\\21.0.6113669\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dF:\\githubrtk\\RtkGps-master\\jni\\Android.mk NDK_APPLICATION_MK\u003dF:\\githubrtk\\RtkGps-master\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003dF:/githubrtk/RtkGps-master/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dF:\\githubrtk\\RtkGps-master\\build\\intermediates\\ndkBuild\\debug\\lib clean"
+  ],
+  "libraries": {
+    "rtklib-debug-armeabi-v7a": {
+      "artifactName": "rtklib",
+      "buildCommand": "F:\\android\\AndroidSDK\\ndk\\21.0.6113669\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dF:\\githubrtk\\RtkGps-master\\jni\\Android.mk NDK_APPLICATION_MK\u003dF:\\githubrtk\\RtkGps-master\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003dF:/githubrtk/RtkGps-master/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dF:\\githubrtk\\RtkGps-master\\build\\intermediates\\ndkBuild\\debug\\lib F:/githubrtk/RtkGps-master/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/librtklib.a",
+      "abi": "armeabi-v7a",
+      "output": "F:\\githubrtk\\RtkGps-master\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\armeabi-v7a\\librtklib.a"
+    },
+    "proj-debug-armeabi-v7a": {
+      "artifactName": "proj",
+      "buildCommand": "F:\\android\\AndroidSDK\\ndk\\21.0.6113669\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dF:\\githubrtk\\RtkGps-master\\jni\\Android.mk NDK_APPLICATION_MK\u003dF:\\githubrtk\\RtkGps-master\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003dF:/githubrtk/RtkGps-master/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dF:\\githubrtk\\RtkGps-master\\build\\intermediates\\ndkBuild\\debug\\lib F:/githubrtk/RtkGps-master/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libproj.so",
+      "abi": "armeabi-v7a",
+      "output": "F:\\githubrtk\\RtkGps-master\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\armeabi-v7a\\libproj.so"
+    },
+    "gdalalljni-debug-armeabi-v7a": {
+      "artifactName": "gdalalljni",
+      "buildCommand": "F:\\android\\AndroidSDK\\ndk\\21.0.6113669\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dF:\\githubrtk\\RtkGps-master\\jni\\Android.mk NDK_APPLICATION_MK\u003dF:\\githubrtk\\RtkGps-master\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003dF:/githubrtk/RtkGps-master/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dF:\\githubrtk\\RtkGps-master\\build\\intermediates\\ndkBuild\\debug\\lib F:/githubrtk/RtkGps-master/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libgdalalljni.so",
+      "abi": "armeabi-v7a",
+      "output": "F:\\githubrtk\\RtkGps-master\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\armeabi-v7a\\libgdalalljni.so"
+    },
+    "ntripcaster-debug-armeabi-v7a": {
+      "artifactName": "ntripcaster",
+      "buildCommand": "F:\\android\\AndroidSDK\\ndk\\21.0.6113669\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dF:\\githubrtk\\RtkGps-master\\jni\\Android.mk NDK_APPLICATION_MK\u003dF:\\githubrtk\\RtkGps-master\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003dF:/githubrtk/RtkGps-master/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dF:\\githubrtk\\RtkGps-master\\build\\intermediates\\ndkBuild\\debug\\lib F:/githubrtk/RtkGps-master/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libntripcaster.so",
+      "abi": "armeabi-v7a",
+      "output": "F:\\githubrtk\\RtkGps-master\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\armeabi-v7a\\libntripcaster.so"
+    },
+    "rtkgps-debug-armeabi-v7a": {
+      "artifactName": "rtkgps",
+      "buildCommand": "F:\\android\\AndroidSDK\\ndk\\21.0.6113669\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dF:\\githubrtk\\RtkGps-master\\jni\\Android.mk NDK_APPLICATION_MK\u003dF:\\githubrtk\\RtkGps-master\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003dF:/githubrtk/RtkGps-master/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dF:\\githubrtk\\RtkGps-master\\build\\intermediates\\ndkBuild\\debug\\lib F:/githubrtk/RtkGps-master/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/librtkgps.so",
+      "abi": "armeabi-v7a",
+      "output": "F:\\githubrtk\\RtkGps-master\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\armeabi-v7a\\librtkgps.so"
+    }
+  }
+}
